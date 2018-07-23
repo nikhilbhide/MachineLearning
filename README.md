@@ -18,6 +18,11 @@ https://www.kaggle.com/marksman/us-adult-income-salary-prediction
 4. RandomForestHyperParameterTuningDemo.scala - Classification using Random Forest and model selection using hyperparametertuning.
 Case Study - US adult income prediction - 
 https://www.kaggle.com/marksman/us-adult-income-salary-prediction
+5. PCADemo.scala - Dimension reduction using principle component analysis
+Dimensionality reduction is the process of reducing the number of variables under consideration. It can be used to extract latent features from raw and noisy features or compress data while maintaining the structure. spark.mllib provides support for dimensionality reduction on the RowMatrix class.
+Case Study - Breast Cancer Wisconsin (Diagnostic) Data Set
+Predict whether the cancer is benign or malignant
+https://www.kaggle.com/uciml/breast-cancer-wisconsin-data
 
 ### How to Run?
 #### With Scala-Eclipse
